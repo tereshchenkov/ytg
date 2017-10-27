@@ -1,0 +1,28 @@
+{
+  "name": "ytg",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "tereshchenkov <vitalikgaga@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/vendor"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "normalize-css": "normalize.css#^7.0.0"
+  },
+  "dependencies": {
+    "owl.carousel": "^2.2.1",
+    "fullpage.js": "^2.9.5",
+    "jquery": "^3.2.1",
+    "normalize-css": "normalize.css#^7.0.0"
+  }
+}
